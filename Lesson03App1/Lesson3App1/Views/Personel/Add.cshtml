@@ -1,0 +1,23 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model Lesson3App1.Models.Personel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+</head>
+<body>
+    <form asp-controller="Personel" asp-action="Add" method="post">
+        <div> Id: <input asp-for="PersonelId">        </div>
+        <div> Adi: <input asp-for="Adi">        </div>
+        <div> Soyadi: <input asp-for="Soyadi">        </div>
+        <div> <button type="submit">Add</button>        </div>
+    </form>
+</body>
+</html>
