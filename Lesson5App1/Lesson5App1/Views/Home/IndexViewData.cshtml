@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>IndexViewData</title>
+</head>
+<body>
+    <div> @ViewData["Message"]</div>
+    @{ 
+        var dept = ViewData["dept"] as Lesson5App1.Models.Department;
+    }
+    <div> @dept.DeptId  - @dept.Name  </div>
+    <p></p>
+    @foreach (var e in dept.employees)
+    {
+        <div> Id: @e.Id  FirstName: @e.FirstName  LastName: @e.LastName</div>
+    }
+
+</body>
+</html>

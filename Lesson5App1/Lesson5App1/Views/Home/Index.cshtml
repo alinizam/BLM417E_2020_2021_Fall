@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+@{
+    @model Lesson5App1.Models.Department
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+   
+    <title>Index</title>
+</head>
+<body>
+    <div> @Model.DeptId  - @Model.Name  </div>
+    <p></p>
+    @foreach (var e in Model.employees){
+        <div> Id: @e.Id  FirstName: @e.FirstName  LastName: @e.LastName</div>  
+    }
+    <div>@ViewBag.title </div>
+
+</body>
+</html>
