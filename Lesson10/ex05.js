@@ -1,0 +1,1 @@
+console.log([3, 5, 7, 4, 6].filter(value => value%2===0));
