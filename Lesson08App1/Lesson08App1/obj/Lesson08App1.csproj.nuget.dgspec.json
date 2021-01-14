@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alinizam\\source\\repos\\Lesson08App1\\Lesson08App1\\Lesson08App1.csproj": {}
+    "D:\\calisma\\verilen dersler\\Web Design and Programming\\2020_2021 Bahar\\kodlar\\BLM417E_2020_2021_Fall\\Lesson08App1\\Lesson08App1\\Lesson08App1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alinizam\\source\\repos\\Lesson08App1\\Lesson08App1\\Lesson08App1.csproj": {
+    "D:\\calisma\\verilen dersler\\Web Design and Programming\\2020_2021 Bahar\\kodlar\\BLM417E_2020_2021_Fall\\Lesson08App1\\Lesson08App1\\Lesson08App1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alinizam\\source\\repos\\Lesson08App1\\Lesson08App1\\Lesson08App1.csproj",
+        "projectUniqueName": "D:\\calisma\\verilen dersler\\Web Design and Programming\\2020_2021 Bahar\\kodlar\\BLM417E_2020_2021_Fall\\Lesson08App1\\Lesson08App1\\Lesson08App1.csproj",
         "projectName": "Lesson08App1",
-        "projectPath": "C:\\Users\\alinizam\\source\\repos\\Lesson08App1\\Lesson08App1\\Lesson08App1.csproj",
+        "projectPath": "D:\\calisma\\verilen dersler\\Web Design and Programming\\2020_2021 Bahar\\kodlar\\BLM417E_2020_2021_Fall\\Lesson08App1\\Lesson08App1\\Lesson08App1.csproj",
         "packagesPath": "C:\\Users\\alinizam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alinizam\\source\\repos\\Lesson08App1\\Lesson08App1\\obj\\",
+        "outputPath": "D:\\calisma\\verilen dersler\\Web Design and Programming\\2020_2021 Bahar\\kodlar\\BLM417E_2020_2021_Fall\\Lesson08App1\\Lesson08App1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

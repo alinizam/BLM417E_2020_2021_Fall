@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j3DF7tqC0AGj25j9s9kh97e+N9pXDOsr2+oS9C5OeiUTMpmZGZV7ydpVXrLJMBwusCDBMc7VMrxQ0ky13OyFEw==",
+  "dgSpecHash": "DrNNQ1i0B6+S2pe51DttXgOEc6djy7rgmucHzqLo1yRgMLp6K2njK/aDHS3dGpTvvn4WiJW2nE6I3rWcSVfWOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alinizam\\source\\repos\\Lesson08App1\\Lesson08App1\\Lesson08App1.csproj",
+  "projectFilePath": "D:\\calisma\\verilen dersler\\Web Design and Programming\\2020_2021 Bahar\\kodlar\\BLM417E_2020_2021_Fall\\Lesson08App1\\Lesson08App1\\Lesson08App1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alinizam\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\alinizam\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
